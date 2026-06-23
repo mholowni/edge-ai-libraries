@@ -1,7 +1,6 @@
 # How To Advanced
 This section refers to few advanced features and tutorials provided by DL Streamer Pipeline Server.
 
-- [Model Update](#model-update)
 - [Object tracking](#object-tracking)
 - [Enable HTTPS for DL Streamer Pipeline Server](#dl-streamer-pipeline-server-https)
 - [Performance Analysis](#performance-analysis)
@@ -10,9 +9,6 @@ This section refers to few advanced features and tutorials provided by DL Stream
 - [Cross stream batching](#cross-stream-batching)
 - [Enable Open Telemetry](#enable-open-telemetry)
 - [Working with other services](#working-with-other-services)
-
-## Model Update
-To update models while a pipeline instance is running, refer this [doc](./model_update/dlstreamer_pipeline_server_model_update.md)
 
 ## Object tracking
 To learn about object tracking refer this [doc](./object_tracking/object_tracking.md)
